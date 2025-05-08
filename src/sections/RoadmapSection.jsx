@@ -60,9 +60,11 @@ const RoadmapSection = () => {
       items: [
         { text: "Concept development and whitepaper release", completed: true },
         { text: "Core team formation", completed: true },
-        { text: "Smart contract development", completed: true },
+        { text: "Web app development", completed: false },
         { text: "Initial artwork and game design", completed: false },
         { text: "Private funding round", completed: false },
+        { text: "Smart contract development", completed: false },
+        { text: "Initial artwork and game design", completed: false },
       ],
       isLeft: true,
     },
@@ -82,20 +84,6 @@ const RoadmapSection = () => {
     },
     {
       phase: "Phase 3",
-      date: "Q4 2025",
-      title: "Token Launch & Expansion",
-      description: "Official token launch and expansion of game features.",
-      items: [
-        { text: "$AW token public sale", completed: false },
-        { text: "Exchange listings", completed: false },
-        { text: "Beta game release with expanded features", completed: false },
-        { text: "Guild system implementation", completed: false },
-        { text: "Staking and rewards mechanisms", completed: false },
-      ],
-      isLeft: true,
-    },
-    {
-      phase: "Phase 4",
       date: "Q1 2026",
       title: "Full Launch & Evolution",
       description:
@@ -107,7 +95,7 @@ const RoadmapSection = () => {
         { text: "Tournament and esports integration", completed: false },
         { text: "Cross-chain compatibility", completed: false },
       ],
-      isLeft: false,
+      isLeft: true,
     },
   ];
 

@@ -19,7 +19,6 @@ const Header = () => {
 
   const navLinks = [
     { name: "Features", href: "#features" },
-    { name: "Tokenomics", href: "#tokenomics" },
     { name: "Roadmap", href: "#roadmap" },
     { name: "Community", href: "#community" },
     { name: "FAQ", href: "#faq" },

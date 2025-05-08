@@ -48,21 +48,6 @@ const HeroSection = () => {
               Play Now
             </Button>
           </div>
-
-          <div className="flex justify-center items-center gap-8 py-4">
-            <div className="flex flex-col items-center">
-              <div className="text-3xl font-bold mb-1">$11.95B</div>
-              <div className="text-sm text-gray-400">TCG Market (2022)</div>
-            </div>
-            <div className="flex flex-col items-center">
-              <div className="text-3xl font-bold mb-1">$31.47B</div>
-              <div className="text-sm text-gray-400">Projected by 2030</div>
-            </div>
-            <div className="flex flex-col items-center">
-              <div className="text-3xl font-bold mb-1">$65.7B</div>
-              <div className="text-sm text-gray-400">Blockchain Gaming</div>
-            </div>
-          </div>
         </div>
       </div>
 

@@ -21,7 +21,6 @@ function App() {
         <FaqSection />
         <NewsletterSection />
       </main>
-      <Footer />
     </div>
   );
 }

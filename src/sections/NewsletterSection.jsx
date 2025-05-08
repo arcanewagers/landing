@@ -62,30 +62,6 @@ const NewsletterSection = () => {
               </div>
             </form>
           )}
-
-          <p className="text-gray-400 text-sm">
-            By subscribing, you agree to receive updates and marketing emails
-            from Arcane Wagers. You can unsubscribe at any time. View our{" "}
-            <a href="#" className="text-purple-400 hover:underline">
-              Privacy Policy
-            </a>
-            .
-          </p>
-        </div>
-
-        <div className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-8">
-          <div className="bg-gray-800/50 backdrop-blur-sm border border-gray-700 rounded-xl p-6 text-center">
-            <div className="text-3xl font-bold text-purple-400 mb-2">10K+</div>
-            <div className="text-gray-300">Active Players</div>
-          </div>
-          <div className="bg-gray-800/50 backdrop-blur-sm border border-gray-700 rounded-xl p-6 text-center">
-            <div className="text-3xl font-bold text-purple-400 mb-2">$2M+</div>
-            <div className="text-gray-300">Trading Volume</div>
-          </div>
-          <div className="bg-gray-800/50 backdrop-blur-sm border border-gray-700 rounded-xl p-6 text-center">
-            <div className="text-3xl font-bold text-purple-400 mb-2">50K+</div>
-            <div className="text-gray-300">Discord Community</div>
-          </div>
         </div>
       </div>
     </section>
