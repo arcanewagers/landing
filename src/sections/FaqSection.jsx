@@ -53,7 +53,7 @@ const FaqSection = () => {
     {
       question: "How do I earn money playing Arcane Wagers?",
       answer:
-        "You can earn by participating in daily quests, winning PvP battles, completing missions, participating in tournaments, trading NFTs on our marketplace, staking $AW tokens, and through our referral program.",
+        "You can earn by participating in daily quests, winning PvP battles, completing missions, participating in tournaments, trading NFTs on our marketplace.",
     },
   ];
 
