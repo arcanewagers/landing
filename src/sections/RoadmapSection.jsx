@@ -53,7 +53,7 @@ const RoadmapSection = () => {
   const roadmapItems = [
     {
       phase: "Phase 1",
-      date: "Q2 2025",
+      date: "???",
       title: "Foundation & Development",
       description:
         "Building the core technology and game mechanics of Arcane Wagers.",
@@ -62,15 +62,14 @@ const RoadmapSection = () => {
         { text: "Core team formation", completed: true },
         { text: "Web app development", completed: false },
         { text: "Initial artwork and game design", completed: false },
-        { text: "Private funding round", completed: false },
         { text: "Smart contract development", completed: false },
-        { text: "Initial artwork and game design", completed: false },
+        { text: "Private funding round", completed: false },
       ],
       isLeft: true,
     },
     {
       phase: "Phase 2",
-      date: "Q3 2025",
+      date: "???",
       title: "Alpha Release & Community",
       description: "First playable version and building the initial community.",
       items: [
@@ -84,7 +83,7 @@ const RoadmapSection = () => {
     },
     {
       phase: "Phase 3",
-      date: "Q1 2026",
+      date: "???",
       title: "Full Launch & Evolution",
       description:
         "Full game launch and ongoing development based on community feedback.",
